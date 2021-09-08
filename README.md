@@ -38,3 +38,6 @@
 # Conclusión
  Es una pequeña aplicación para *grabar, actualizar, eliminar y obtener* notas en la cual se muestra el uso de componentes, rutas, vuex para centralizar información y se realiza una persistencia de datos del lado del cliente.
  Nota: *La aplicación no es responsive*
+
+# Vista Previa
+![Resume cv](/preview.png)
